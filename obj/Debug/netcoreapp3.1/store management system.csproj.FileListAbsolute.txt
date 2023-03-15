@@ -1,0 +1,26 @@
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system\obj\Debug\netcoreapp3.1\store management system.csprojAssemblyReference.cache
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system\obj\Debug\netcoreapp3.1\store management system.AssemblyInfoInputs.cache
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system\obj\Debug\netcoreapp3.1\store management system.AssemblyInfo.cs
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system\obj\Debug\netcoreapp3.1\store management system.csproj.CoreCompileInputs.cache
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system\bin\Debug\netcoreapp3.1\store management system.exe
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system\bin\Debug\netcoreapp3.1\store management system.deps.json
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system\bin\Debug\netcoreapp3.1\store management system.runtimeconfig.json
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system\bin\Debug\netcoreapp3.1\store management system.runtimeconfig.dev.json
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system\bin\Debug\netcoreapp3.1\store management system.dll
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system\bin\Debug\netcoreapp3.1\store management system.pdb
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system\obj\Debug\netcoreapp3.1\store management system.dll
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system\obj\Debug\netcoreapp3.1\store management system.pdb
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system\obj\Debug\netcoreapp3.1\store management system.genruntimeconfig.cache
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system linklist\obj\Debug\netcoreapp3.1\store management system.csprojAssemblyReference.cache
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system linklist\obj\Debug\netcoreapp3.1\store management system.AssemblyInfoInputs.cache
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system linklist\obj\Debug\netcoreapp3.1\store management system.AssemblyInfo.cs
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system linklist\obj\Debug\netcoreapp3.1\store management system.csproj.CoreCompileInputs.cache
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system linklist\obj\Debug\netcoreapp3.1\store management system.dll
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system linklist\obj\Debug\netcoreapp3.1\store management system.pdb
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system linklist\bin\Debug\netcoreapp3.1\store management system.exe
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system linklist\bin\Debug\netcoreapp3.1\store management system.deps.json
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system linklist\bin\Debug\netcoreapp3.1\store management system.runtimeconfig.json
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system linklist\bin\Debug\netcoreapp3.1\store management system.runtimeconfig.dev.json
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system linklist\bin\Debug\netcoreapp3.1\store management system.dll
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system linklist\bin\Debug\netcoreapp3.1\store management system.pdb
+E:\Noor Ul Ain\CODING-20221207T131249Z-001\Practice Coding\store management system linklist\obj\Debug\netcoreapp3.1\store management system.genruntimeconfig.cache
